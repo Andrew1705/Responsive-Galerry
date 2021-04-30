@@ -1,0 +1,38 @@
+.gallery {
+  border: 1px solid #ccc;
+  margin: top;
+  float: left;
+  width: 185px; }
+  .gallery:hover { border: 1px solid #777;
+ 
+  }
+
+  .gallery img { 
+    width: 100%; height: auto; background-color: blue;
+  }
+
+  .desc {
+  padding: 10px;
+  text-align: center;
+  }
+
+  .galery{ 
+  background-color: blue;
+  margin: auto ; margin-top: 3px;
+  }
+
+  p{
+    position:absolute;
+    text-align:left;
+    }
+
+  
+
+
+
+
+
+ 
+  
+
+
